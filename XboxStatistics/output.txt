@@ -1,0 +1,62 @@
+Q: How many games do I have?
+A: 197
+
+Q: How many games have I completed?
+A: 3
+
+Q: How many days did I play?
+A: 0.782291666666667
+
+Q: Which game did I play the most hours?
+A: The Binding of Isaac: Rebirth -> 742 minutes
+
+Q: How much Gamerscore do I have?
+A: 41561
+
+Q: In which game did I unlock my latest achievement?
+A: Hollow Knight on 2019-02-25 18:27
+
+Q: List all of my statistics in Binding of Isaac:
+A: BestWinStreak = 3
+CurrentWinStreak = -7
+AngelItems = 447
+DevilItems = 666
+MarkedRocksDestroyed = 1493
+PoopsDestroyed = 35024
+CoinsDonated = 1024
+MinutesPlayed = 44573
+GameProgress = 98.331017
+
+Q: How many achievements did I earn per year?
+A: 2014: 1
+2015: 29
+2016: 207
+2017: 189
+2018: 220
+2019: 40
+
+Q: List all of my games where I have earned a rare achievement
+A: Sheltered
+The Flame in the Flood
+Killer Instinct
+The Fall Part 2: Unbound
+TRON RUN/r
+Ruiner
+Darkest Dungeonr
+Broken Age
+Ori and the Blind Forest
+Broken Sword 5 - the Serpent's Curse
+MASSIVE CHALICE
+Rise & Shine
+The Solus Project
+AQUA KITTY UDX: Xbox One Ultra Edition
+Yoku's Island Express
+Rocket Leaguer
+Ori and the Blind Forest: Definitive Edition
+The Bug Butcher
+Adventure Pop
+Nidhogg 2
+GWENT: The Witcher Card Game
+
+Q: Which is my rarest achievement?
+A: You are among the 1.42% of gamers who earned the "On the fly" achievement in Ruiner

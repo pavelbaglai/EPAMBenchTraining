@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeral", "RomanNumeral\RomanNumeral.csproj", "{BD67C21B-7D0E-4DC0-93B5-BB69CCB244DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNumbers", "..\RationalNumbers\RationalNumbers\RationalNumbers.csproj", "{6B0B21BA-598B-43C1-9EC2-A3A958222782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "..\Restaurant\Restaurant.csproj", "{48387F8A-65F5-4823-BB0E-C6E6769F0E63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralTest", "..\RomanNumeralTest\RomanNumeralTest.csproj", "{9261952D-0511-4774-87CC-D53D89281529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RationalNumbersTest", "..\RationalNumbersTest\RationalNumbersTest.csproj", "{71588454-4A05-41B8-87C3-FE6928BC2603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantTest", "..\RestaurantTest\RestaurantTest.csproj", "{18319078-6C23-410D-AEC7-E405C0A867E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSlotEnumerator", "..\TimeSlotEnumerator\TimeSlotEnumerator.csproj", "{08C01220-8640-452E-A4BF-51C2DEEDEF3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD67C21B-7D0E-4DC0-93B5-BB69CCB244DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD67C21B-7D0E-4DC0-93B5-BB69CCB244DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD67C21B-7D0E-4DC0-93B5-BB69CCB244DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD67C21B-7D0E-4DC0-93B5-BB69CCB244DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0B21BA-598B-43C1-9EC2-A3A958222782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0B21BA-598B-43C1-9EC2-A3A958222782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0B21BA-598B-43C1-9EC2-A3A958222782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0B21BA-598B-43C1-9EC2-A3A958222782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48387F8A-65F5-4823-BB0E-C6E6769F0E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48387F8A-65F5-4823-BB0E-C6E6769F0E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48387F8A-65F5-4823-BB0E-C6E6769F0E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48387F8A-65F5-4823-BB0E-C6E6769F0E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9261952D-0511-4774-87CC-D53D89281529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9261952D-0511-4774-87CC-D53D89281529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9261952D-0511-4774-87CC-D53D89281529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9261952D-0511-4774-87CC-D53D89281529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71588454-4A05-41B8-87C3-FE6928BC2603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71588454-4A05-41B8-87C3-FE6928BC2603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71588454-4A05-41B8-87C3-FE6928BC2603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71588454-4A05-41B8-87C3-FE6928BC2603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18319078-6C23-410D-AEC7-E405C0A867E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18319078-6C23-410D-AEC7-E405C0A867E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18319078-6C23-410D-AEC7-E405C0A867E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18319078-6C23-410D-AEC7-E405C0A867E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C01220-8640-452E-A4BF-51C2DEEDEF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C01220-8640-452E-A4BF-51C2DEEDEF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C01220-8640-452E-A4BF-51C2DEEDEF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C01220-8640-452E-A4BF-51C2DEEDEF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBC574B2-7ED9-4CC5-8CA7-6150ECFFF2A7}
+	EndGlobalSection
+EndGlobal

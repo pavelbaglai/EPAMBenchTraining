@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondMax", "SecondMax\SecondMax.csproj", "{361CAE21-FE28-47D3-91BB-71AEFC754EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondMax.Tests", "SecondMax.Tests\SecondMax.Tests.csproj", "{38F5359D-4D6A-454A-A463-C5E2B247F11D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{361CAE21-FE28-47D3-91BB-71AEFC754EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361CAE21-FE28-47D3-91BB-71AEFC754EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361CAE21-FE28-47D3-91BB-71AEFC754EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361CAE21-FE28-47D3-91BB-71AEFC754EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F5359D-4D6A-454A-A463-C5E2B247F11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F5359D-4D6A-454A-A463-C5E2B247F11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F5359D-4D6A-454A-A463-C5E2B247F11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F5359D-4D6A-454A-A463-C5E2B247F11D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
